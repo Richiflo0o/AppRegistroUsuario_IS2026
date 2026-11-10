@@ -6,7 +6,6 @@ Aplicación Android para el registro de usuarios...
 
 | Interfaz | Imagen |
 |---|---|
-
 | Registro | ![Registro](capturas/registro.png) |
 
 Ricardo Elias Velez Lopez
